@@ -6,7 +6,7 @@ Machine Learning and Software Engineer building AI-powered applications.
 
 - Real-Time Motion Capture Application
 - Visual SLAM Framework (Python)
-- Local LLM Stack (LM Studio + Gemma 4 26B QAT + LM Link)
+- Local LLM Stack (LM Studio/Open WEBUI + MCP + RAG - Gemma 4 26B QAT/12B QAT + (LM) Link for mobile access)
 
 ## Areas of Interest
 
