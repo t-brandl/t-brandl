@@ -4,6 +4,7 @@ Machine Learning and Software Engineer building AI-powered applications.
 
 ## Currently Working On
 
+- Eigenface vs CNN vs ViT for Facial Detection Comparison
 - Real-Time Motion Capture Application
 - Visual SLAM Framework (Python)
 - Local LLM Stack (LM Studio/Open WEBUI + MCP + RAG - Gemma 4 26B QAT/12B QAT + (LM) Link for mobile access)
